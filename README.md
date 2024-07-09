@@ -1,5 +1,7 @@
 # VueJS 2+ sample application
 
+**Important: to compile the application you need NodeJS 16.20.2. You can use [NVM](https://github.com/nvm-sh/nvm) to switch between versions.**
+
 ## Project setup
 
 ```
